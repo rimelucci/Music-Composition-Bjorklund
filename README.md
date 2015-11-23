@@ -16,7 +16,7 @@ BeatBox is a program that generates formulaic vintage video-game type songs give
         
 Once it is run, a GUI will pop up prompting users to select a scale and a tempo.
 - Once a scale and tempo is selected, press play and hear your unique song being played through your headphones or speakers!
-  - To save a special song that you relly liked, just press save after hearing it play and you'll be able to use it for whatever purposes you'd like!
+  - To save a special song that you really liked, just press save after hearing it play and you'll be able to use it for whatever purposes you'd like!
 
 __JFugue Documentation__ : http://www.cs.ucsb.edu/~pconrad/cs56/examples/jfugue/doc/TheCompleteGuideToJFugue-v1.pdf
     
